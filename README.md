@@ -1,2 +1,2 @@
-# powercp
-challenges during CP
+# PowerCP
+JS Challenges during Poco CP
